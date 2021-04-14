@@ -1,0 +1,8 @@
+{
+  "redirects": [
+    {
+      "source": "/book",
+      "destination": "https://outlook.office365.com/owa/calendar/TeleTalkEvanstonCAPS@nuwildcat.onmicrosoft.com/bookings/"
+    }
+  ]
+}
